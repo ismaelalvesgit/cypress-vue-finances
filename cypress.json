@@ -1,0 +1,10 @@
+{
+  "baseUrl":"http://localhost:8000",
+  "db": {
+    "user": "prisma",
+    "password": "prisma",
+    "host": "localhost",
+    "port": 5432,
+    "database": "prisma"
+  }
+}
